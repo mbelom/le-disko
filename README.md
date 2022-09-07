@@ -1,2 +1,1 @@
-# le-disko
-MERN: Book Search Engine
+# Book Search Engine Starter Code
